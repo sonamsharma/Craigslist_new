@@ -1,0 +1,227 @@
+body {
+	font-family : verdana, sans-serif;
+	font-size: 14px; 
+	line-height : 22px; 
+}
+
+p {
+	font-family : verdana, sans-serif;
+	font-size: 13px; 
+}
+
+A  {
+	text-decoration : none;
+}
+
+A:Visited  {
+	text-decoration : none;
+}
+
+A:Active  {
+	text-decoration : none;
+}
+
+A:Hover  {
+	text-decoration : underline;
+}
+
+.cblk  {
+	color : #000000;
+}
+
+.cmar  {
+	color : Maroon;
+}
+
+.cgrn  {
+	color : Green;
+}
+
+.colv  {
+	color : Olive;
+}
+
+.cnvy  {
+	color : Navy;
+}
+
+.cpur  {
+	color : Purple;
+}
+
+.cteal  {
+	color : Teal;
+}
+
+.cgry  {
+	color : Gray;
+}
+
+.cslv  {
+	color : Silver;
+}
+
+.cred  {
+	color : #FF0000;
+}
+
+.clime  {
+	color : Lime;
+}
+
+.cylw  {
+	color : Yellow;
+}
+
+.cblu  {
+	color : Blue;
+}
+
+.cfuch  {
+	color : Fuchsia;
+}
+
+.caqu  {
+	color : Aqua;
+}
+
+.cwht  {
+	color : White;
+}
+
+.nortxt {
+	font-family : verdana, sans-serif;
+	font-size: 12px; 
+}
+
+.smtxt {
+	font-size: 10px; 
+	font-family : Verdana;
+}
+
+.subor {
+	font-family : verdana, sans-serif;
+	font-size: 12px;
+	color : #ff9900;
+	font-weight : bold;
+}
+
+.sub1 {
+	font-family : verdana, sans-serif;
+	font-size: 12px;
+	color : #ff9900;
+	font-weight : bold;
+	line-height : 20px; 
+	border-bottom-width : 1px;
+	border-bottom-style : solid;
+	border-bottom-color : #FF9900;
+}
+
+.subsm {
+	text-transform: uppercase; 
+	letter-spacing: 0.1em; 
+	font-size: 11px; 
+	font-weight: bold;
+	font-family : Verdana;
+}
+
+.navhead {
+	text-transform: uppercase; 
+	letter-spacing: 0.1em; 
+	font-size: 11px; 
+	font-weight: bold;
+	font-family : Verdana;  
+	border-left: 1px solid #cc6600; 
+	border-top: 1px solid #cc6600; 
+	border-bottom: 1px solid #cc6600;
+	border-right : 1px solid #cc6600;
+}
+
+.nav {
+	text-transform: lowercase; 
+	font-size: 11px; 
+	font-weight: bold;
+	font-family : Verdana;
+	line-height : 14px; 
+}
+
+.nav p {
+	font-family : Verdana;
+	font-size: 11px; 
+}
+
+.navtxt {
+	font-size: 11px; 
+	font-family : Verdana;
+}
+
+.navtxt p {
+	font-size: 11px; 
+	font-family : Verdana;
+}
+
+.navtxtlg {
+	font-size: 11px; 
+	font-family : Verdana;
+	border-left: 1px solid #FFCC66;
+	border-top: 1px solid #FFCC66;
+	border-bottom: 1px solid #FFCC66;
+	border-right : 1px solid #FFCC66;
+}
+
+.navtxtlg p {
+	font-size: 11px; 
+	font-family : Verdana;
+}
+
+.pgsub {
+	font-size : 18px;
+	font-family : Verdana;
+	color : #FF9900;
+	font-weight : bold;
+	line-height : 28px; 
+	border-bottom-color : #FF9900;
+	border-bottom-style : solid;
+	border-bottom-width : 1px;
+	border-top-style : solid;
+	border-top-width : 1px;
+	border-top-color : #FF9900;
+	}
+
+.show {
+	background-color : #FFFF66;
+}
+
+.showlt {
+	background-color : #FFCC99;
+}
+
+.klein {
+	background-color: #fff;
+	font: 10px "Lucida Grande", Lucida, Verdana, sans-serif;
+	padding: 3;
+}
+
+.adtxt {
+	font-family : Arial, sans-serif;
+	font-size: 12px;
+}
+
+.adshow {
+font-family: Arial, sans-serif; 
+font-size: 12px;
+background-color : #CCCCFF;
+}
+
+.copy {
+font-size: 9px; 
+text-transform: uppercase;
+letter-spacing: 0.2em;
+}
+
+.box {
+	border: black;
+	border-style: double;
+	font-size: 12px; 
+	font-weight : bold;
+}

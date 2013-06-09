@@ -1,0 +1,14 @@
+document.writeln('<!-- Begin Google Analytics Asynchronous Tracking tag -->');
+document.writeln('<sc'+'ript type="text/javasc'+'ript">');
+document.writeln('  var _gaq = _gaq || [];');
+document.writeln('  _gaq.push([\'_setAccount\', \'UA-22056732-5\']);');
+document.writeln('  _gaq.push([\'_setSampleRate\',\'5\']);');
+document.writeln('  _gaq.push([\'_trackPageview\']);');
+document.writeln('  ');
+document.writeln('  (function() {');
+document.writeln('    var ga = docu'+'ment.createElement(\'sc'+'ript\'); ga.type = \'text/javasc'+'ript\'; ga.async = true;');
+document.writeln('    ga.src = (\'https:\' == docu'+'ment.location.protocol ? \'https://ssl\' : \'http://www\') + \'.google-analytics.com/ga.js\';');
+document.writeln('    (docu'+'ment.getElementsByTagName(\'head\')[0] || docu'+'ment.getElementsByTagName(\'body\')[0]).appendChild(ga);');
+document.writeln('  })();');
+document.writeln('</sc'+'ript>');
+document.writeln('<!-- End Google Analytics Asynchronous Tracking tag -->');

@@ -1,0 +1,26 @@
+What we did - 
+
+1.Included the logo Craigslist already had but did not use on their website.
+2.Clicking on the logo anytime returns to home page
+3.Post to classifieds is more prominent now
+4.Corrected the Event Calendar- It shows the month and year now and there is
+ a way to go to the next and previous months.Clicking on the date shows
+ results for only that date now.
+5.Included a Sitemap.
+6.Removed unnecessary stuff like weather,tide information etc.
+7. The homepage now just has the main headings and not all the cluttered 
+subheadings.
+
+TASK1
+8.Reduced the number of pages to create a posting.All options are given on
+a single page so that the process does not look long.
+9. We provide a summary of the user's selections about the type of posting,
+location etc before he creates the actual posting so that he knows he's doing
+the right thing.
+10. For creating a post for a house, we added no. of baths to be entered.
+
+TASK 2
+11.Made the type of job (eg.full time,part time etc.) more prominent and
+on the same page as the category of jobs.
+12.Added summary of results (Total results found, number of Dispalyed results
+etc.) 
